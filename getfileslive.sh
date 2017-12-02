@@ -1,4 +1,7 @@
 #/bin/bash
+#
+# Author: Fredrik Jonsson (Aug 18, 2016)
+# 
 
 url=ftp://nortel:nortel@8.14.1.41
 level=0
